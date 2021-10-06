@@ -5,5 +5,4 @@
 |  \___-    Website: undefined 
 -_          Langs: JS and PY 
   --_       Girlfriend: 200 OK
-     --     
 ```
