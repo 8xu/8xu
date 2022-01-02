@@ -8,6 +8,7 @@ const me = {
   code: [JavaScript, HTML, CSS, Python],
   codeEditor: "Visual Studio Code",
   color: purple,
-  favSong: "Cred Că Sunt Extraterestru - Nu Pot Să Mă Schimb"
+  favSong: "Cred Că Sunt Extraterestru - Nu Pot Să Mă Schimb",
 }
 ```
+[![wakatime](https://wakatime.com/badge/user/fa8ea1ee-bb4a-4734-a763-aee233cf63c4.svg)](https://wakatime.com/@fa8ea1ee-bb4a-4734-a763-aee233cf63c4)
