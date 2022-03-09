@@ -8,6 +8,7 @@ const me = {
   code: [JavaScript, HTML, CSS, Python],
   codeEditor: "Visual Studio Code",
   operatingSystems: ["Ubuntu 21.10", "Windows 11"],
+  browser: "Chrome",
   color: purple,
   favSong: "Cred Că Sunt Extraterestru - Nu Pot Să Mă Schimb",
 }
