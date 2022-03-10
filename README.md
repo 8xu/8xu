@@ -1,9 +1,10 @@
-## Hi, I'm Mihai <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+<img src="./media/img2.gif">
+
 ```javascript
 const me = {
-  pronouns: "he" | "him",
+  name: "Mihai",
   age: 16,
+  pronouns: "he" | "him",
   nationality: "Romanian",
   code: ["JavaScript", "HTML", "CSS", "Python"],
   edior: ["vscode", "nano"],
@@ -12,4 +13,3 @@ const me = {
   favSong: "Cred Că Sunt Extraterestru - Nu Pot Să Mă Schimb",
 }
 ```
-[![wakatime](https://wakatime.com/badge/user/fa8ea1ee-bb4a-4734-a763-aee233cf63c4.svg)](https://wakatime.com/@fa8ea1ee-bb4a-4734-a763-aee233cf63c4)
