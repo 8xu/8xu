@@ -1,4 +1,4 @@
-<img src="./media/img2.gif">
+<img src="./media/cyber.gif">
 
 ```javascript
 const me = {
