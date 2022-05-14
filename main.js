@@ -1,7 +1,21 @@
-<img src="./assets/cyber.gif">
+/* const me = {
+  name: "Mihai",
+  age: "16",
+  location: "Bucharest, Romania",
+  preferences: [
+    "browser": "Firefox",
+    "OS": "MacOS",
+    "IDE": "Visual Studio Code",
+  ],
+  hobbies: [
+    "programming",
+    "listening to music",
+    "watching movies",
+    "playing games",
+  ],
+}
+ */
 
-
-```javascript
 const me = {
     name: "Mihai",
     age: "16",
@@ -18,4 +32,3 @@ const me = {
         "playing games",
     ],
 };
-```
