@@ -1,1 +1,1 @@
-[![ReadMeSupportPalestine](https://raw.githubusercontent.com/HamzaZaidiX/support-palestine-banner/master/banner-support.svg)](https://github.com/HamzaZaidiX/support-palestine-banner/Markdown-pages/Support.md)
+[![ReadMeSupportPalestine](https://raw.githubusercontent.com/HamzaZaidiX/support-palestine-banner/master/banner-support.svg)](https://crisisrelief.un.org/en/opt-crisis)
